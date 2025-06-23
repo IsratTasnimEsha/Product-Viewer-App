@@ -31,11 +31,6 @@ The Product Viewer App is a simple Android application that fetches product data
 This app uses a sample REST API endpoint that returns product data.
 `https://dummyjson.com/products`
 
-## Requirements
-
-- Android Studio
-- Android SDK
-
 ## Contributions
 
 Contributions to the project are welcomed. If you encounter issues or have suggestions for improvements, feel free to submit pull requests.
