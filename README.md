@@ -1,4 +1,4 @@
-# Product View - A Product Viewer App
+# ProductView - A Product Viewer App
 
 <br>
 <p align="center">
@@ -37,7 +37,7 @@ Contributions to the project are welcomed. If you encounter issues or have sugge
 
 ## Contact
 
-I'm here to assist you on your journey with the Product View - A Product Viewer App. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+I'm here to assist you on your journey with the ProductView - A Product Viewer App. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
 
 ## Author
 
